@@ -44,5 +44,7 @@ Work on the project carried out during the Garage of Complexity classes also inc
 # What next?
 In order to use the device in its intended application to measure the thickness of cell layers, tests using various liquids would be required to see how the signal output values change with different liquids (e.g. water, cell medium, cell medium with cells), characterised by different densities, absorption coefficients and other relevant physicochemical properties. Ultimately, a calibration curve using cell cultures of various number of layers would be performed to establish a mathematical equation describing the relationship between IR intensity changes and the number of cell layers. Perhaps these tests would also reveal a need to fine-tune the electronic circuit itself, such as testing more resistor values and ways to connect them.
 # Sources 
-- [Writing on GitHub] ( https://docs.github.com/en/get-started/writing-on-github )
-- [Phototransistor and Arduino] ( https://botland.store/content/157-Phototransistor-and-Arduino )
+- [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github )
+- [Phototransistor and Arduino](https://botland.store/content/157-Phototransistor-and-Arduino )
+- [Wiki of ADC](http://wiki.52pi.com/index.php/RPI-ADS1115-ADC-Module_SKU:EP-0076)
+- [System documentation of ADC](https://botland.com.pl/index.php?controller=attachment&id_attachment=2032)
