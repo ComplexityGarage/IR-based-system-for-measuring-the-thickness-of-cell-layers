@@ -14,9 +14,9 @@ Light is emitted by an IR emitter diode, which then can pass through a sample, a
 
 * [Phototransistor SFH-313FA 5mm 870nm](https://botland.com.pl/fototranzystory/4245-fototranzystor-sfh-313fa-5mm-870nm-5-szt-5903351245760.html)
 
-*[JustPi THT CF carbon resistor 1/4W 10kΩ](https://botland.store/through-hole-resistors-tht/20150-justpi-tht-cf-carbon-resistor-14w-10k-30pcs-5904422329280.html)
+* [JustPi THT CF carbon resistor 1/4W 10kΩ](https://botland.store/through-hole-resistors-tht/20150-justpi-tht-cf-carbon-resistor-14w-10k-30pcs-5904422329280.html)
 
-*[IR 940nm transmitter + wire - Iduino SE028](https://botland.store/led-ir-infrared/14286-ir-940nm-transmitter-wire-iduino-se028-5903351242011.html)
+* [IR 940nm transmitter + wire - Iduino SE028](https://botland.store/led-ir-infrared/14286-ir-940nm-transmitter-wire-iduino-se028-5903351242011.html)
 * Breadboard and cables
 * Prusa 3D printer and PLA filament
 
